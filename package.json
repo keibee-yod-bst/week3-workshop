@@ -1,0 +1,22 @@
+{
+  "name": "week3-workshop",
+  "version": "1.0.0",
+  "description": "3813ICT week3 workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keibee-yod-bst/week3-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keibee-yod-bst/week3-workshop/issues"
+  },
+  "homepage": "https://github.com/keibee-yod-bst/week3-workshop#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
